@@ -6,6 +6,40 @@ Esse repositório é um *work-in-progress*, isso quer dizer que algus *bugs* pod
 
 O repositório está dividido conforme a execução das aulas de 2022.2.
 
+
+<table style="width:100%">
+  <tr>
+    <td colspan="2"><strong>Apresentação do curso (23/08)</strong></td>
+  </tr>
+  <tr>
+    <td>Slides</td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/raw/main/slides/00-presentation.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+  <tr>
+    <td>Bibliografia</td>
+    <td><a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook">Mastering Bitcoin</a> <em>por A. Antonopoulos</em><br><a target="_blank" href="https://github.com/ethereumbook/ethereumbook">Mastering Ethereum</a> <em>por A. Antonopoulos</em></td>
+  </tr>
+    <tr><td colspan="2"></td></tr>
+  <tr>
+    <td colspan="2"><strong>O protocolo Bitcoin: visão geral (25/08)</strong></td>
+  </tr>
+  <tr>
+    <td>Slides</td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/raw/main/slides/01-bitcoin-overview.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulos <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc">1</a> e <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch02.asciidoc">2</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://bitcoin.org/bitcoin.pdf">White paper</a> por <em>Satoshi Nakamoto</em><br>
+    <a target="_blank" href="https://learnmeabitcoin.com/">How does Bitcoin work?</a> por <em>Greg W</em></td>
+  </tr>
+  
+    
+</table>
+
 ## Projetos
 
 ```markdown
