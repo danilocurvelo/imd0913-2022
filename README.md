@@ -59,11 +59,15 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
 
     
   <tr>
-    <td colspan="2"><strong>Arquitetura de um BLockchain: Hashing (31/08)</strong></td>
+    <td colspan="2"><strong>Arquitetura de um Blockchain: Hashing (31/08)</strong></td>
   </tr>
   <tr>
     <td>Slides</td>
     <td><a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/raw/main/slides/03-blockchain-architecture-hashing.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+  <tr>
+    <td>Atividade avaliativa #01</td>
+    <td><a target="_blank" href="#"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em></em></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
