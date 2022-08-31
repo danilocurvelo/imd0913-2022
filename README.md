@@ -59,7 +59,7 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
 
     
   <tr>
-    <td colspan="2"><strong>Arquitetura de um Blockchain: Hashing (31/08)</strong></td>
+    <td colspan="2"><strong>Arquitetura de um Blockchain: Hashing (31/08 - 05/09)</strong></td>
   </tr>
   <tr>
     <td>Slides</td>
