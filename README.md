@@ -19,7 +19,9 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
     <td>Bibliografia</td>
     <td><a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook">Mastering Bitcoin</a> <em>por A. Antonopoulos</em><br><a target="_blank" href="https://github.com/ethereumbook/ethereumbook">Mastering Ethereum</a> <em>por A. Antonopoulos</em></td>
   </tr>
-    <tr><td colspan="2"></td></tr>
+  
+
+    
   <tr>
     <td colspan="2"><strong>O protocolo Bitcoin: visão geral (25/08)</strong></td>
   </tr>
@@ -36,7 +38,41 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
     <td><a target="_blank" href="https://bitcoin.org/bitcoin.pdf">White paper</a> por <em>Satoshi Nakamoto</em><br>
     <a target="_blank" href="https://learnmeabitcoin.com/">How does Bitcoin work?</a> por <em>Greg W</em></td>
   </tr>
-  
+
+
+    
+  <tr>
+    <td colspan="2"><strong>Do Bitcoin ao Blockchain (29/08)</strong></td>
+  </tr>
+  <tr>
+    <td>Slides</td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/raw/main/slides/02-blockchain-history.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc">1</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://bitcoin.org/bitcoin.pdf">White paper</a> por <em>Satoshi Nakamoto</em><br><a target="_blank" href="http://www.activism.net/cypherpunk/manifesto.html">Cypherpunk Manifesto</a> por <em>E. Hughes</em><br><a target="_blank" href="https://www.blockchain.com/explorer">Blockchain Explorer</a></td>
+  </tr>
+
+    
+  <tr>
+    <td colspan="2"><strong>Arquitetura de um BLockchain: Hashing (31/08)</strong></td>
+  </tr>
+  <tr>
+    <td>Slides</td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/raw/main/slides/03-blockchain-architecture-hashing.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc">4</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://andersbrownworth.com/blockchain/hash">SHA256 Online</a><br><a target="_blank" href="https://docs.python.org/3/library/hashlib.html">Documentação hashlib</a></td>
+  </tr>
     
 </table>
 
