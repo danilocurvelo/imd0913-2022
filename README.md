@@ -77,6 +77,27 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
     <td>Material complementar</td>
     <td><a target="_blank" href="https://andersbrownworth.com/blockchain/hash">SHA256 Online</a><br><a target="_blank" href="https://docs.python.org/3/library/hashlib.html">Documentação hashlib</a></td>
   </tr>
+  
+  
+  <tr>
+    <td colspan="2"><strong>Arquitetura de um Blockchain: Bloco (14/09 - 19/09)</strong></td>
+  </tr>
+  <tr>
+    <td>Slides</td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/raw/main/slides/04-blockchain-architecture-blocks.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+  <tr>
+    <td>Atividade avaliativa #02</td>
+    <td><a target="_blank" href="#"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em></em></td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch09.asciidoc">9</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://andersbrownworth.com/blockchain/block">Blocos: Demo</a><br><a target="_blank" href="https://andersbrownworth.com/blockchain/blockchain">Blockchain: Demo</a></td>
+  </tr>
     
 </table>
 
