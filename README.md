@@ -100,7 +100,7 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
   </tr>
   
   <tr>
-    <td colspan="2"><strong>Arquitetura de um Blockchain: Rede e Mempool (14/09 - 19/09)</strong></td>
+    <td colspan="2"><strong>Arquitetura de um Blockchain: Rede e Mempool (21/09)</strong></td>
   </tr>
   <tr>
     <td>Slides</td>
