@@ -108,7 +108,7 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
   </tr>
   <tr>
     <td>Leitura complementar</td>
-    <td>MB Capítulo <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch09.asciidoc">9</a></td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08.asciidoc">8</a></td>
   </tr>
   <tr>
     <td>Material complementar</td>
