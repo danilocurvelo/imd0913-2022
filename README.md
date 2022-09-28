@@ -124,7 +124,7 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
   </tr>
   <tr>
     <td>Atividade avaliativa #03</td>
-    <td><a target="_blank" href="#"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em></em></td>
+    <td><a target="_blank" href="https://classroom.github.com/a/gJFVlFdj"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em></em></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
