@@ -9,7 +9,7 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
 
 <table style="width:100%">
   <tr>
-    <td colspan="2"><strong>Apresentação do curso (23/08)</strong></td>
+    <td colspan="2"><strong>Apresentação do curso (22/08)</strong></td>
   </tr>
   <tr>
     <td>Slides</td>
@@ -23,7 +23,7 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
 
     
   <tr>
-    <td colspan="2"><strong>O protocolo Bitcoin: visão geral (25/08)</strong></td>
+    <td colspan="2"><strong>O protocolo Bitcoin: visão geral (24/08)</strong></td>
   </tr>
   <tr>
     <td>Slides</td>
