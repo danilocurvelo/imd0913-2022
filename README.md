@@ -134,6 +134,34 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
     <td>Material complementar</td>
     <td><a target="_blank" href="https://www.mail-archive.com/cryptography@metzdowd.com/msg09997.html">E-Mail Satoshi Nakamoto: PoW</a></td>
   </tr>
+  
+  <tr>
+    <td colspan="2"><strong>Arquitetura de um Blockchain: Consenso - Proof-of-Stake (05/10)</strong></td>
+  </tr>
+  <tr>
+    <td>Slides</td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/raw/main/slides/07-blockchain-architecture-consensus-advanced.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+  
+  <tr>
+    <td colspan="2"><strong>Arquitetura de um Blockchain: Assinaturas digitais (05/10)</strong></td>
+  </tr>
+  <tr>
+    <td>Slides</td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/raw/main/slides/08-blockchain-architecture-signatures.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+  <tr>
+    <td>Blockchain em Python</td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/blob/main/code/04-sign-and-verify/blockchain.py"><img src="https://img.shields.io/badge/-Repositório-181717?style=flat-square&logo=github"></a></td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch04.asciidoc">4</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://tools.bitcoin.com/verify-message/">Validação de assinaturas Bitcoin</a></td>
+  </tr>
     
 </table>
 
