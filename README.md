@@ -162,6 +162,24 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
     <td>Material complementar</td>
     <td><a target="_blank" href="https://tools.bitcoin.com/verify-message/">Validação de assinaturas Bitcoin</a></td>
   </tr>
+  
+  
+  
+  <tr>
+    <td colspan="2"><strong>Arquitetura de um Blockchain: Wallets (17/10)</strong></td>
+  </tr>
+  <tr>
+    <td>Slides</td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/raw/main/slides/09-blockchain-architecture-wallets.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch05.asciidoc">5</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://bitcoinpaperwallet.com/">Paper wallet</a><br><a target="_blank" href="https://bitcoin.org/en/exchanges#south-america">Bitcoin Exchanges</a><br><a target="_blank" href="https://bitcoin.org/pt_BR/escolha-sua-carteira">Escolha sua carteira (<em>wallet</em>)</a></td>
+  </tr>
     
 </table>
 
