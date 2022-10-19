@@ -190,6 +190,10 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
     <td><a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/raw/main/slides/10-blockchain-architecture-transactions.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
   <tr>
+    <td>Atividade avaliativa #05</td>
+    <td><a target="_blank" href="#"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em></em></td>
+  </tr>
+  <tr>
     <td colspan="2"><strong>Arquitetura de um Blockchain: Script Bitcoin (19/10)</strong></td>
   </tr>
   <tr>
