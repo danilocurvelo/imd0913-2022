@@ -208,6 +208,23 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
     <td>Material complementar</td>
     <td><a target="_blank" href="https://en.bitcoin.it/wiki/Script">Referência da linguagem <em>Script</em></a></td>
   </tr>
+  
+  
+  <tr>
+    <td colspan="2"><strong>Arquitetura de um Blockchain: Nós e Forks (26/10)</strong></td>
+  </tr>
+  <tr>
+    <td>Slides</td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/raw/main/slides/12-blockchain-architecture-nodes-and-forks.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08.asciidoc">8</a> e <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc">10</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://bitcoin.org/en/download">Cliente Bitcoin Core</a></td>
+  </tr>
     
 </table>
 
