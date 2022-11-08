@@ -242,7 +242,36 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
   </tr>
   
   <tr>
-    <td>Atividade avaliativa #07</td>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc">7</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://github.com/ethereumbook/ethereumbook">Mastering Ethereum</a> <em>por A. Antonopoulos</em></td>
+  </tr>
+  
+  
+    <tr>
+    <td colspan="2"><strong>Solidity (09/11)</strong></td>
+  </tr>
+  <tr>
+    <td>Slides</td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/raw/main/slides/14-solidity.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+  
+  <tr>
+    <td><strong>Exemplos Smart Contracts</strong></td>
+    <td><a target="_blank" href="https://www.youtube.com/watch?v=ocO5XkdaIz8"><img src="https://img.shields.io/badge/-HelloWorld.sol-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://github.com/danilocurvelo/IMD0293/tree/main/code/smart-contracts"><img src="https://img.shields.io/badge/-HelloWorld.sol-181717?style=flat-square&logo=github"></a>
+  <br>
+      <a target="_blank" href="https://www.youtube.com/watch?v=nVy4dHSKL9Q"><img src="https://img.shields.io/badge/-Coin.sol-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://github.com/danilocurvelo/IMD0293/tree/main/code/smart-contracts"><img src="https://img.shields.io/badge/-Coin.sol-181717?style=flat-square&logo=github"></a>
+  <br>
+      <a target="_blank" href="https://www.youtube.com/watch?v=Kp_DWi_KkGE"><img src="https://img.shields.io/badge/-Faucet.sol-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://github.com/danilocurvelo/IMD0293/tree/main/code/smart-contracts"><img src="https://img.shields.io/badge/-Faucet.sol-181717?style=flat-square&logo=github"></a>
+  
+  </td>
+  </tr>
+  
+  <tr>
+    <td>Atividade: Smart Contracts</td>
     <td><a target="_blank" href="#"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em></em></td>
   </tr>
   
@@ -252,7 +281,7 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
   </tr>
   <tr>
     <td>Material complementar</td>
-    <td><a target="_blank" href="https://github.com/ethereumbook/ethereumbook">Mastering Ethereum</a> <em>por A. Antonopoulos</em></td>
+    <td><a target="_blank" href="https://docs.soliditylang.org/">Documentação Solidity</a><br><a target="_blank" href="https://cryptozombies.io//">Curso CryptoZombies</a><br><a target="_blank" href="https://remix.ethereum.org/">Remix IDE</a><br><a target="_blank" href="https://faucet.metamask.io">Ether Ropstein Faucet</a></td>
   </tr>
     
 </table>
