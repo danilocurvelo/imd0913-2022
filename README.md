@@ -231,6 +231,29 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
     <td>Material complementar</td>
     <td><a target="_blank" href="https://bitcoin.org/en/download">Cliente Bitcoin Core</a></td>
   </tr>
+  
+  
+   <tr>
+    <td colspan="2"><strong>Ethereum e Smart Contracts (07/11)</strong></td>
+  </tr>
+  <tr>
+    <td>Slides</td>
+    <td><a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/raw/main/slides/13-ethereum-and-smart-contracts.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+  
+  <tr>
+    <td>Atividade avaliativa #07</td>
+    <td><a target="_blank" href="#"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em></em></td>
+  </tr>
+  
+  <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc">7</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://github.com/ethereumbook/ethereumbook">Mastering Ethereum</a> <em>por A. Antonopoulos</em></td>
+  </tr>
     
 </table>
 
