@@ -281,7 +281,7 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
   </tr>
   <tr>
     <td>Material complementar</td>
-    <td><a target="_blank" href="https://docs.soliditylang.org/">Documentação Solidity</a><br><a target="_blank" href="https://cryptozombies.io//">Curso CryptoZombies</a><br><a target="_blank" href="https://remix.ethereum.org/">Remix IDE</a><br><a target="_blank" href="https://faucet.metamask.io">Ether Ropstein Faucet</a></td>
+    <td><a target="_blank" href="https://docs.soliditylang.org/">Documentação Solidity</a><br><a target="_blank" href="https://cryptozombies.io//">Curso CryptoZombies</a><br><a target="_blank" href="https://remix.ethereum.org/">Remix IDE</a><br><a target="_blank" href="[[https://faucet.metamask.io](https://faucet.sepolia.dev/)](https://faucet.sepolia.dev/)">Ether Sepolia Faucet</a></td>
   </tr>
     
 </table>
