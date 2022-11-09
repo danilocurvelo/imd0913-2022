@@ -220,7 +220,7 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
   
   <tr>
     <td>Atividade avaliativa #06</td>
-    <td><a target="_blank" href="https://classroom.github.com/a/bbXUVbaz"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em> apresentação 09/11</em></td>
+    <td><a target="_blank" href="https://classroom.github.com/a/bbXUVbaz"><img src="https://img.shields.io/badge/-Classroom-181717?style=flat-square&logo=github"></a><em> apresentação 14/11</em></td>
   </tr>
   
   <tr>
