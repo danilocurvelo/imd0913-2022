@@ -261,11 +261,11 @@ O repositório está dividido conforme a execução das aulas de 2022.2.
   
   <tr>
     <td><strong>Exemplos Smart Contracts</strong></td>
-    <td><a target="_blank" href="https://www.youtube.com/watch?v=ocO5XkdaIz8"><img src="https://img.shields.io/badge/-HelloWorld.sol-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/tree/main/code/smart-contracts"><img src="https://img.shields.io/badge/-HelloWorld.sol-181717?style=flat-square&logo=github"></a>
+    <td><a target="_blank" href="https://www.youtube.com/watch?v=ocO5XkdaIz8"><img src="https://img.shields.io/badge/-HelloWorld.sol-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/tree/main/code/solidity"><img src="https://img.shields.io/badge/-HelloWorld.sol-181717?style=flat-square&logo=github"></a>
   <br>
-      <a target="_blank" href="https://www.youtube.com/watch?v=nVy4dHSKL9Q"><img src="https://img.shields.io/badge/-Coin.sol-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/tree/main/code/smart-contracts"><img src="https://img.shields.io/badge/-Coin.sol-181717?style=flat-square&logo=github"></a>
+      <a target="_blank" href="https://www.youtube.com/watch?v=nVy4dHSKL9Q"><img src="https://img.shields.io/badge/-Coin.sol-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/tree/main/code/solidity"><img src="https://img.shields.io/badge/-Coin.sol-181717?style=flat-square&logo=github"></a>
   <br>
-      <a target="_blank" href="https://www.youtube.com/watch?v=Kp_DWi_KkGE"><img src="https://img.shields.io/badge/-Faucet.sol-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/tree/main/code/smart-contracts"><img src="https://img.shields.io/badge/-Faucet.sol-181717?style=flat-square&logo=github"></a>
+      <a target="_blank" href="https://www.youtube.com/watch?v=Kp_DWi_KkGE"><img src="https://img.shields.io/badge/-Faucet.sol-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://github.com/danilocurvelo/imd0913-2022/tree/main/code/solidity"><img src="https://img.shields.io/badge/-Faucet.sol-181717?style=flat-square&logo=github"></a>
   
   </td>
   </tr>
