@@ -22,7 +22,7 @@ Para o desenvolvimento dos contratos inteligentes, utilize a linguagem de progra
 
 ## Metodologia e Avaliação
 
-O projeto final deve ser realizado **individualmente ou em dupla**. O projeto deverá ser apresentado, por videoconferência, por todos os membros do grupo, em data e horário pré-definido, que serão sorteados entre os grupos existentes.
+O projeto final deve ser realizado **individualmente ou em dupla**. O projeto deverá ser apresentado, por todos os membros do grupo, em data e horário pré-definido, que serão sorteados entre os grupos existentes.
 
 Ainda precisarão ser entregues:
 
