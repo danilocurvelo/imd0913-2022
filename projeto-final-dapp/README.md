@@ -33,7 +33,7 @@ Ainda precisarão ser entregues:
 O cronograma será:
 
 - até 05/12/2022 : **[Obrigatório]** Apresentar a proposta de tema e esboço/protótipo do funcionamento da aplicação para o professor.
-- 30/11/2022 16h50min : **[Opcional]** Acompanhamento do andamento do projeto em sala de aula.
+- 30/11/2022 16h50min : **[Obrigatório]** Apresentação da atividade `07-smart-contracts`.
 - 05/12/2022 16h50min : **[Opcional]** Acompanhamento do andamento do projeto em sala de aula.
 - 07/12/2022 16h50min : **[Opcional]** Acompanhamento do andamento do projeto em sala de aula.
 - **[Obrigatório]** Apresentar o projeto final ao professor em data e horário pré-definido:
